@@ -90,10 +90,13 @@ body{
         height: 56vh;
     }
     #uname, #pname{
-        width: 52vw;
+        width: 58vw;
     }
     #submit{
         margin-right: 10px;
+    }
+    #uname, #pname{
+        font-size: 20px;
     }
 }
 
